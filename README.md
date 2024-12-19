@@ -50,7 +50,7 @@ The API requires Basic Authentication. Enter the username and password for the s
 ### **End Points**
 
 #### **POST api/points/**
-Enter a string of 2D points to find the nearest pair.
+Enter a string of  points to find the nearest pair.
 
 **Request body:**
 Format: JSON Field: 'points_string'
